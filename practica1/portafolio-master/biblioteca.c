@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "memory_management.h"
 
 // Variable estatica (almacenada en el segmento de datos)
 static int static_var = 0;
