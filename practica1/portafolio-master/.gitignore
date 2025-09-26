@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+*.hi
+*.o
+*.exe
+
+.vscode/
+env/
+__pycache__/
+public/
+*.lock
+build/
+library.txt
+members.txt
+library.json
+members.json
